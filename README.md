@@ -1,14 +1,8 @@
 ## WELCOME TO YEONSU'S SPACE 👋
 
 ## 💻 YEONSU's note 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://blog.naver.com/10ys00">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="https://www.notion.so/0f0793e2c971476c8fd1bba9d0053147?pvs=4">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-</div><br>
+  <a href="https://www.notion.so/0f0793e2c971476c8fd1bba9d0053147?pvs=4"><img src="https://img.shields.io/badge/Notion-cccccc?style=flat-square&logo=Notion&logoColor=black"/></a>
+  <a href="https://blog.naver.com/10ys00"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ## 기술스택
 - LANGUAGE : <img src="https://img.shields.io/badge/JAVA 17-blue?style=flat&logo=Java&logoColor=white"/>,<img src="https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white"/>,<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> ,<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> ,<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
