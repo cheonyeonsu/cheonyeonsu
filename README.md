@@ -1,6 +1,6 @@
 ## WELCOME TO YEONSU'S SPACE 👋
 
-## 💻 YEONSU's note 💻
+## 💻 Study note 💻
   <a href="https://www.notion.so/0f0793e2c971476c8fd1bba9d0053147?pvs=4"><img src="https://img.shields.io/badge/Notion-cccccc?style=flat-square&logo=Notion&logoColor=black"/></a>
   <a href="https://blog.naver.com/10ys00"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
