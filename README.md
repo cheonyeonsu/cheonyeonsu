@@ -9,8 +9,8 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://velog.io/@bi-sz)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://blog.naver.com/10ys00)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://www.notion.so/0f0793e2c971476c8fd1bba9d0053147?pvs=4)
 </div><br>
 
 ## 기술스택
@@ -23,6 +23,6 @@
 - ORM : <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheonyeonsu)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheonyeonsu&show_icons=true&theme=dracula)
