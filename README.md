@@ -1,11 +1,11 @@
-### WELCOME TO YEONSU'S SPACE 👋
+## WELCOME TO YEONSU'S SPACE 👋
 
 ## 💻 YEONSU's note 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@bi-sz">
+    <a href="https://blog.naver.com/10ys00">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
-    <a href="https://li-yo.tistory.com">
+    <a href="https://www.notion.so/0f0793e2c971476c8fd1bba9d0053147?pvs=4">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
