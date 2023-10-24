@@ -1,7 +1,7 @@
 ## WELCOME TO YEONSU'S SPACE 👋
 
 ## 💻 Study note 💻
-  <a href="https://www.notion.so/0f0793e2c971476c8fd1bba9d0053147?pvs=4"><img src="https://img.shields.io/badge/Notion-cccccc?style=flat-square&logo=Notion&logoColor=black"/></a>
+  <a href="https://www.notion.so/invite/a838d0689b0748ebe1d1c875f7ec0076b51fcb84"><img src="https://img.shields.io/badge/Notion-cccccc?style=flat-square&logo=Notion&logoColor=black"/></a>
   <a href="https://blog.naver.com/10ys00"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 
