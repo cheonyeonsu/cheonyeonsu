@@ -23,6 +23,6 @@
 - ORM : <img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat&logo=spring&logoColor=white"/>
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={cheonyeonsu(string)})](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={cheonyeonsu})](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheonyeonsu&show_icons=true&theme=dracula)
